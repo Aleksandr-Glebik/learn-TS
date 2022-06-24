@@ -1,5 +1,4 @@
-function addNumbers(x: number, y: number) {
+function addNumbers(x, y) {
     return x + y;
-  }
+}
 console.log(addNumbers(3, 6));
-
